@@ -4,10 +4,6 @@ A terminal UI for TIDAL built with Go and Bubble Tea.
 
 ## Installation
 
-```
-brew install open-source5784524/tidal-tui/tidal-tui
-```
-
 ## Development
 
 ### Requirements
